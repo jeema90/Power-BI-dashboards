@@ -9,7 +9,7 @@ Each project demonstrates different aspects of the Power BI ecosystem, including
 ## 🚀 Projects
 
 ### 📈 Data Job Market Dashboard
-
+--------
 A comprehensive Power BI dashboard designed to analyze trends in the global data job market. This project helps users explore salaries, hiring demand, remote work opportunities, and required skills across various data-related roles.
 
 ------
@@ -43,8 +43,14 @@ A comprehensive Power BI dashboard designed to analyze trends in the global data
 ---
 
 ### 📊 Data Job Market Dashboard 2.0
+-----
 
 An enhanced version of the original dashboard with a more streamlined design, improved user experience, and advanced analytical capabilities.
+
+----
+
+![Dashboard page 1](/images/Screenshot%202026-06-02%20183632.png)
+------
 
 #### Key Features
 
@@ -66,7 +72,9 @@ An enhanced version of the original dashboard with a more streamlined design, im
 - User-Centered Dashboard Design
 
 ---
+[➡️ **View Full Project 2 Details (README)**](/Data_Jobs_v2/README.md)
 
+-----
 ## 🛠️ Tools & Technologies
 
 - Power BI Desktop
