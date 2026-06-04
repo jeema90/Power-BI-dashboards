@@ -86,7 +86,58 @@ An enhanced version of the original dashboard with a more streamlined design, im
 - Data Visualization
 
 ---
+# 📊 Sales Analysis Dashboard
 
+A comprehensive sales performance dashboard designed to provide insights into revenue, profit, team performance, regional contributions, and salesperson productivity through interactive visualizations and dynamic filtering.
+
+---
+
+![Dashboard page 1](/images/Screenshot%202026-06-04%20123146.png)
+
+---------
+#### 🚀 Key Features
+
+-  Executive KPI monitoring with Sales Amount and    Profit gauges
+-  Salesperson performance analysis with profile-based reporting
+- Team-wise sales comparison and ranking
+- Geographic sales distribution analysis
+- Regional performance breakdown
+- Monthly sales and profit trend tracking
+- Interactive slicers for Date and Team filtering
+- One-click reset using Clear All Slicers button
+
+---
+
+#### 🛠️ Skills Demonstrated
+
+- Star Schema Data Modeling
+- DAX Measures and Calculations
+- KPI and Gauge Visual Development
+- Interactive Dashboard Design
+- Cross-Filtering and Drill Analysis
+- Power Query Data Transformation
+- Data Visualization Best Practices
+- Sales Performance Analytics
+- Business Intelligence Reporting
+- User-Centered Dashboard Development
+
+---
+## 🎯 Business Value
+
+This dashboard enables stakeholders to:
+
+- Monitor overall sales and profitability
+- Identify top-performing sales representatives
+- Evaluate team performance
+- Analyze sales distribution across regions and countries
+- Track monthly business trends
+- Make data-driven business decisions through interactive reporting
+
+---
+
+[➡️ **View Full Project 3 Details (README)**](/Data_Jobs_v3/README.md)
+
+-----------------------------
 ## 📚 What I’m Learning
 
 This portfolio represents my continuous learning journey in data analytics and business intelligence. Alongside Power BI, I am also developing skills in:
